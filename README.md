@@ -1,5 +1,7 @@
 # 🦷 ClarityDental — Dental Clinic Management System (DCMS)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jaswanth1823/dental)
+
 A modern, full-stack Dental Clinic Management System built with **React 19**, **TypeScript**, **Tailwind CSS**, and **Express**. ClarityDental delivers role-based access control, conflict-checked scheduling, interactive clinical charting, treatment plans, prescriptions, invoicing with partial payments, and analytics.
 
 ---
