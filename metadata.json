@@ -1,0 +1,6 @@
+{
+  "name": "ClarityDental — Dental Clinic Management System",
+  "description": "Full-stack Dental Clinic Management System with patient records, conflict-checked appointment scheduling, dental examination timelines, prescriptions, billing, analytics, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
